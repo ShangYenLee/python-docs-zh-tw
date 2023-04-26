@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Python 3.11\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-26 00:21+0000\n"
-"PO-Revision-Date: 2022-10-16 03:20+0800\n"
+"PO-Revision-Date: 2023-04-26 02:59+0800\n"
 "Last-Translator: Adrian Liaw <adrianliaw2000@gmail.com>\n"
 "Language-Team: Chinese - TAIWAN (https://github.com/python/python-docs-zh-"
 "tw)\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../../library/ctypes.rst:2
 msgid ":mod:`ctypes` --- A foreign function library for Python"
@@ -1509,6 +1509,7 @@ msgid ""
 msgstr ""
 
 #: ../../library/ctypes.rst:1548
+#, fuzzy
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``ctypes.dlsym`` with arguments "
 "``library``, ``name``."
@@ -1524,6 +1525,7 @@ msgid ""
 msgstr ""
 
 #: ../../library/ctypes.rst:1554
+#, fuzzy
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``ctypes.dlsym/handle`` with "
 "arguments ``handle``, ``name``."
@@ -1648,6 +1650,7 @@ msgid ""
 msgstr ""
 
 #: ../../library/ctypes.rst:1645
+#, fuzzy
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``ctypes.seh_exception`` with "
 "argument ``code``."
@@ -1665,6 +1668,7 @@ msgid ""
 msgstr ""
 
 #: ../../library/ctypes.rst:1653
+#, fuzzy
 msgid ""
 "Raises an :ref:`auditing event <auditing>` ``ctypes.call_function`` with "
 "arguments ``func_pointer``, ``arguments``."
